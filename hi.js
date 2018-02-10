@@ -1,1 +1,1 @@
-console.log("hi master branch1 first");
+console.log("hi branch2 first");
